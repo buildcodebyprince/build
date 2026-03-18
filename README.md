@@ -61,3 +61,36 @@ The **Smart Road Safety Detection System** is a computer vision–based project 
 ### 1. Install Dependencies
 ```bash
 pip install opencv-python numpy pillow
+2. Run the Program
+python main.py
+🖼️ GUI Components
+
+Live camera feed
+
+Distance display
+
+Speed suggestion
+
+Status indicator
+
+Traffic light system
+
+⚠️ Limitations
+
+Works best in good lighting conditions
+
+Accuracy depends on camera quality
+
+Not fully reliable for all road types
+
+🚀 Future Improvements
+
+AI/Deep Learning integration
+
+GPS-based alerts
+
+Mobile app support
+
+Night detection improvements
+
+
